@@ -16,7 +16,7 @@
 }
 
 p {
-	text-align: center;
+	text-align: center;	
 }
 
 #missao {
@@ -46,3 +46,9 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+
+footer {
+	text-align: center;
+	background: #BBBBBB;
+	padding: 10px 0;		
+	}
